@@ -10,6 +10,7 @@ Langkah-langkah untuk run script :
 Catatan : 
 Jika saat running script tampil pop up
 ![image](https://user-images.githubusercontent.com/43976118/175228429-b5dc998c-d4af-47ba-878d-32498b5ebefa.png)
+
 Untuk mengatasinya :
 - Pilih menu "Run"
 - Pilih "Run Configuration"
